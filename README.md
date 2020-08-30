@@ -12,3 +12,9 @@ sudo apt libgstreamermm-1.0-dev
 make clean
 make
 ```
+
+#### Tested Targets
+```
+- NVIDIA Jetson Xavier
+- Raspberry Pi 4
+```
