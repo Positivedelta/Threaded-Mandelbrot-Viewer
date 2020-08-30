@@ -1,3 +1,7 @@
+//
+// (c) Max van Daalen, August 2020
+//
+
 #include <complex>
 #include <cstdint>
 #include <iostream>
