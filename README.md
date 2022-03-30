@@ -14,7 +14,5 @@ make
 ```
 
 #### Tested Targets
-```
 - NVIDIA Jetson Xavier
 - Raspberry Pi 4
-```
